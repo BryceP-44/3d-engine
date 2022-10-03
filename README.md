@@ -4,7 +4,6 @@ You should try out the two programs in the "3d engine 2" folder called: "test7" 
 "test7.py" is the 3D gravity simulation, and "3d23.py" is just a box.<br />
 "convert3.py" is the file that I am now using that does the 3D to 2D conversion<br /><br />
 Use arrows to move U/D/L/R and W and S to move Fd/Bk
-<br /><br />
 
 
 
