@@ -3,7 +3,7 @@ A special equation that converts any 3-D space coordinate to a 2-D perspective p
 You should try out the two programs in the "3d engine 2" folder called: "test7" and "3d23" (yes it took me 23 different save states to get it to work smh)<br />
 "test7.py" is the 3D gravity simulation, and "3d23.py" is just a box.<br />
 "convert3.py" is the file that I am now using that does the 3D to 2D conversion<br /><br />
-Use arrows to move U/D/L/R and W and S to move Fd/Bk
+Use arrows to move U/D/L/R; use W and S to move Fd/Bk
 
 
 
